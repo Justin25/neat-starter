@@ -3,7 +3,5 @@ items:
     url: /about
   - text: Contact
     url: "#"
-  - text: Interesting Blogs/Sites
-    url: "#"
   - text: Blog
     url: /blog
